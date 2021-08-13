@@ -1,4 +1,4 @@
-# Pareto_Set
+# Pareto_Set (*This program is still on progress.)
 This program is for implementing multi-objective optimization based on abstract data type (ADT).
 There are two folders, 1) Pareto (main class) and 2) TestParetoSet (for testing this program).
 
